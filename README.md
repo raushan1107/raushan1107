@@ -79,25 +79,25 @@
 </p>
 <br>
 <p><b>Few Projects:</b><br>
-        <a href="https://raushan1107.github.io/rrservices/" target="_blank" rel="noreferrer">
+        <a href="https://raushan1107.github.io/rrservices/" target="_blank">
                 RR Services (frontend development)
         </a><br>
-        <a href="https://raushan1107.github.io/Explore-All-Ways/" target="_blank" rel="noreferrer">
+        <a href="https://raushan1107.github.io/Explore-All-Ways/" target="_blank">
                 Explore All Ways (frontend development)
         </a><br>
-        <a href="https://raushan1107.github.io/FallingBall/" target="_blank" rel="noreferrer">
+        <a href="https://raushan1107.github.io/FallingBall/" target="_blank">
                 Falling Ball (game)
         </a><br>
-        <a href="https://raushan1107.github.io/stayhealthy/" target="_blank" rel="noreferrer">
+        <a href="https://raushan1107.github.io/stayhealthy/" target="_blank">
                 Stay Healthy (landing page)
         </a><br>
-        <a href="https://raushan1107.github.io/TicTacToe/" target="_blank" rel="noreferrer">
+        <a href="https://raushan1107.github.io/TicTacToe/" target="_blank">
                 TicTacToe (game)
         </a><br>
-        <a href="https://portfolio-raushanranjan.web.app/" target="_blank" rel="noreferrer">
+        <a href="https://portfolio-raushanranjan.web.app/" target="_blank">
                 Portfolio website
         </a><br>
-        <a href="https://raushan1107.github.io/pythonprogrammingnotes/" target="_blank" rel="noreferrer">
+        <a href="https://raushan1107.github.io/pythonprogrammingnotes/" target="_blank">
                 Python Programming Notes
         </a><br>
 </p>
