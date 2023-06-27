@@ -10,9 +10,13 @@
             <li><b>(AIS) Azure Integration Services</b></li>
             <li><b>Developing ASP.NET Core MVC Web Applications</b></li>
             <li><b>Programming in Blazor </b></li>
-            <li><b>Web development using Blazor </b></li>
+            <li><b>Build Web Applications with ASP.NET Blazor</b></li>
             <li><b>Programming in C#</b></li>
             <li><b>Programming in HTML, CSS, and JavaScript</b></li>
+            <li><b>PL-100T00: Microsoft Power Platform App Maker</b></li>
+            <li><b>PL-300T00: Microsoft Power BI Data Analyst</b></li>
+            <li><b>Introduction to .NET Programming</b></li>
+            <li><b>Introduction to ASP.net core Web API using .NET 7</b></li>
         </ul><br>
         I am constantly seeking to learn new skills and expand my knowledge base. I am also well-versed in Physics, Mathematics, and YouTube Content creation.</b>
         </p>
@@ -37,7 +41,7 @@
 <a href="https://wa.me/918285862455" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Technologies:</h3>
 <p align="left"> 
   <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" alt="dotnet" width="40" height="40"/> 
