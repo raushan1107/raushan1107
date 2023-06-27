@@ -77,4 +77,27 @@
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png" alt="Python" width="40" height="40"/> 
   </a> 
 </p>
-
+<br>
+<p><b>Few Projects:</b><br>
+        <a href="https://raushan1107.github.io/rrservices/" target="_blank" rel="noreferrer">
+                RR Services (frontend development)
+        </a><br>
+        <a href="https://raushan1107.github.io/Explore-All-Ways/" target="_blank" rel="noreferrer">
+                Explore All Ways (frontend development)
+        </a><br>
+        <a href="https://raushan1107.github.io/FallingBall/" target="_blank" rel="noreferrer">
+                Falling Ball (game)
+        </a><br>
+        <a href="https://raushan1107.github.io/stayhealthy/" target="_blank" rel="noreferrer">
+                Stay Healthy (landing page)
+        </a><br>
+        <a href="https://raushan1107.github.io/TicTacToe/" target="_blank" rel="noreferrer">
+                TicTacToe (game)
+        </a><br>
+        <a href="https://portfolio-raushanranjan.web.app/" target="_blank" rel="noreferrer">
+                Portfolio website
+        </a><br>
+        <a href="https://raushan1107.github.io/pythonprogrammingnotes/" target="_blank" rel="noreferrer">
+                Python Programming Notes
+        </a><br>
+</p>
