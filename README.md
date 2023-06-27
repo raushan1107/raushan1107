@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raushan Ranjan</h1>
-<p>
-        Looking for a passionate and innovative <b>IT Developer</b> with a wide range of skills and expertise? Look no further! As a Corporate Trainer with <ul>Koenig Solutions</ul>,I am a dedicated Educator and Learner with a curious mind and a passion for creating productive solutions that make life easier for people.<br></p>
+<p> Looking for a passionate and innovative <b>IT Developer</b> with a wide range of skills and expertise? Look no further! As a Corporate Trainer with <i>Koenig Solutions</i>,<br> I am a dedicated Educator and Learner with a curious mind and a passion for creating productive solutions that make life easier for people.<br></p>
         <p text-align="left">
         With a skillset that includes:<br> 
         <ul>
@@ -28,7 +27,7 @@
 - 💬 Ask me about - **HTML | CSS | JavaScript| ReactJs | Dotnet Framework | Dotnet Core | C# Programming | Python Programming | Microsoft Azure | ASP.NET Core MVC Web Application | NodeJs | MongoDB | Artificial Intelligence | Machine Learning | Physics | EF Core |**
 
 - 📫 How to reach me **raushanr1107@gmail.com** 
-- <a href="https://wa.me/918285862455" target="blank"><img src="https://w7.pngwing.com/pngs/68/505/png-transparent-whatsapp-message-icon-whatsapp-logo-whatsapp-logo-text-logo-grass.png" alt="whatsapp" /></a>
+- <a href="https://wa.me/918285862455" target="blank"><img src="https://w7.pngwing.com/pngs/68/505/png-transparent-whatsapp-message-icon-whatsapp-logo-whatsapp-logo-text-logo-grass.png" alt="whatsapp" width="40" height="40" /></a>
 
 - ⚡ Fun fact - **In my free time, I enjoy listening to music, playing cricket, and exploring the world around me. I also have a passion for Teaching, Sketching, and storytelling, which allows me to connect with others and share my creativity and expertise**
 
