@@ -11,11 +11,14 @@
             <li><b>Developing ASP.NET Core MVC Web Applications</b></li>
             <li><b>Programming in Blazor </b></li>
             <li><b>Build Web Applications with ASP.NET Blazor</b></li>
-            <li><b>Programming in C#</b></li>
+            <li><b>Programming in C, C++, C# and Python</b></li>
             <li><b>Programming in HTML, CSS, and JavaScript</b></li>
             <li><b>PL-100T00: Microsoft Power Platform App Maker</b></li>
+            <li><b>PL-200T00: Microsoft Power Platform Functional Consultant</b></li>
             <li><b>PL-300T00: Microsoft Power BI Data Analyst</b></li>
+            <li><b>PL-400T00: Microsoft Power Platform Developer</b></li>
             <li><b>Introduction to .NET Programming</b></li>
+            <li><b>Qt and QML Developer</b></li>
             <li><b>Introduction to ASP.net core Web API using .NET 7</b></li>
         </ul><br>
         I am constantly seeking to learn new skills and expand my knowledge base. I am also well-versed in Physics, Mathematics, and YouTube Content creation.</b>
