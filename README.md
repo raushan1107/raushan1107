@@ -1,7 +1,7 @@
 <h1 align="center">Raushan Ranjan</h1>
 
 <h3 align="center">
-  Founder & CEO · RR Skillverse &nbsp;|&nbsp; Microsoft Certified Trainer (MCT) &nbsp;|&nbsp; Senior Corporate Trainer · Koenig Solutions
+  Creator of RR Skillverse &nbsp;|&nbsp; Microsoft Certified Trainer (MCT) &nbsp;|&nbsp; Iconic Corporate Trainer · Koenig Solutions
 </h3>
 
 <p align="center">
