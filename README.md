@@ -25,7 +25,7 @@
 
 ## 👋 About Me
 
-I'm the **Founder & CEO of [RR Skillverse](https://rrskillverse.in)** — a Microsoft technology learning platform — and a **Microsoft Certified Trainer (MCT)** with 10+ years of enterprise training experience at **Koenig Solutions**, Noida.
+I'm the **Creator of [RR Skillverse](https://rrskillverse.in)** — a Microsoft technology learning platform — and a **Microsoft Certified Trainer (MCT)** with 10+ years of enterprise training experience at **Koenig Solutions**, Noida.
 
 I train enterprise professionals globally in **Azure, Power BI, Power Platform, .NET, and AI Engineering** — across India, UAE, UK, USA, and Singapore.
 
