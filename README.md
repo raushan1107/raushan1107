@@ -170,5 +170,5 @@ Microsoft Certified Trainer (MCT)
 
 <p align="center">
   <em>"Sweat in the right direction brings Peace, Money, and Respect."</em><br>
-  <strong>— Raushan Ranjan, MCT · Founder, RR Skillverse</strong>
+  <strong>— Raushan Ranjan, MCT · Creator, RR Skillverse</strong>
 </p>
