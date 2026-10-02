@@ -1,84 +1,83 @@
-<h1 align="center">Raushan Ranjan</h1>
+<h1 align="center">Raushan Ranjan <sub>(Raushan Sir)</sub></h1>
 
-<h3 align="center">
-  Microsoft Certified Trainer (MCT) &nbsp;|&nbsp; Iconic Corporate Trainer · Koenig Solutions
-</h3>
+<h3 align="center">Microsoft Certified Trainer (MCT) · AI &amp; Azure Developer · Creator of <a href="https://rrskillverse.in">RR Skillverse</a></h3>
 
-<p align="center">
-  <em>Engineer by Profession &nbsp;·&nbsp; Educator by Passion</em>
-</p>
+<p align="center"><em>Engineer by profession · Educator by passion · "Why before How, always."</em></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/raushanranjan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-raushanranjan-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:raushanr1107@gmail.com">
-    <img src="https://img.shields.io/badge/Email-raushanr1107%40gmail.com-EA4335?style=for-the-badge&logo=gmail" />
-  </a>
+  <a href="https://raushan-ranjan.azurewebsites.net"><img src="https://img.shields.io/badge/Profile-raushan--ranjan.azurewebsites.net-0f2542?style=for-the-badge" alt="Profile"/></a>
+  <a href="https://rrskillverse.in"><img src="https://img.shields.io/badge/RR%20Skillverse-rrskillverse.in-4F46E5?style=for-the-badge" alt="RR Skillverse"/></a>
+  <a href="https://www.linkedin.com/in/raushanranjan"><img src="https://img.shields.io/badge/LinkedIn-raushanranjan-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://www.youtube.com/@rrskillverse"><img src="https://img.shields.io/badge/YouTube-@rrskillverse-FF0000?style=for-the-badge&logo=youtube" alt="YouTube"/></a>
+  <a href="https://x.com/raushanranjan_"><img src="https://img.shields.io/badge/X-@raushanranjan__-000000?style=for-the-badge&logo=x" alt="X"/></a>
 </p>
 
 ---
 
-## 👋 About Me
+## 👋 About me
 
-I'm a **Microsoft Certified Trainer (MCT)** with 10+ years of enterprise training experience, currently an **Iconic Corporate Trainer at Koenig Solutions**, Noida — my sole employment.
+I'm **Raushan Ranjan**, known to my learners as **Raushan Sir**: a **Microsoft Certified Trainer (MCT)** from Noida, India.
 
-I train enterprise professionals in **Azure, Power BI, Power Platform, .NET, and AI Engineering**.
-
-My philosophy: **"Why before How, always."**
-
----
+- 🎓 **4,000+ professionals trained** across **175+ enterprise batches**, from 40+ organisations in **25+ countries**
+- 🏫 **11+ years in education**: I started **RR Education**, my coaching centre, with one student in 2014 (7+ years of physics and mathematics), then moved into enterprise technology training
+- 💼 **Koenig Solutions (2022 – 2026)**: Corporate Trainer & .NET Developer → Senior Corporate Trainer → **Iconic Corporate Trainer**, leading a five-member Microsoft & AI development team (Trainer Plus)
+- 🤖 I build **AI agents**, RAG systems and full-stack platforms on **Azure, Power Platform and .NET**
+- 🌐 I share everything I learn, free, on **[RR Skillverse](https://rrskillverse.in)**: notes, handbooks, blogs and AI tools
 
 ## 🏅 Certifications
 
-Microsoft Certified Trainer (MCT)
-├── Azure
-│ ├── AZ-900 Microsoft Azure Fundamentals
-│ ├── AZ-104 Microsoft Azure Administrator
-│ ├── AZ-204 Developing Solutions for Microsoft Azure
-│ └── AZ-305 Azure Solutions Architect Expert
-├── Power Platform
-│ ├── PL-100 Microsoft Power Platform App Maker
-│ ├── PL-200 Microsoft Power Platform Functional Consultant
-│ ├── PL-300 Microsoft Power BI Data Analyst
-│ └── PL-400 Microsoft Power Platform Developer
-├── AI & Developer
-│ ├── AI-102 Azure AI Engineer Associate
-│ ├── AI-200 Microsoft Copilot Studio
-│ └── GH-300 GitHub Copilot
-└── Other
-├── PCAP™ Certified Associate in Python Programming
-└── AIS Azure Integration Services
+**12 active certifications**: **Microsoft Certified Trainer (MCT)** since August 2023, **10 Microsoft certifications** and CompTIA Data+.
 
+| Area | Certification |
+|---|---|
+| AI | Azure AI Apps and Agents Developer Associate (AI-103) · Azure AI Cloud Developer Associate (AI-200) |
+| Azure | Azure Developer Associate (AZ-204) · Azure Fundamentals (AZ-900) · Azure Data Fundamentals (DP-900) |
+| Data | Fabric Analytics Engineer Associate (DP-600) · Power BI Data Analyst Associate (PL-300) |
+| Power Platform | Functional Consultant Associate (PL-200) · Developer Associate (PL-400) · Fundamentals (PL-900) |
 
----
+In progress: **Azure Solutions Architect Expert** (AZ-305 passed, AZ-104 scheduled) · AI-901 · AB-410. Also Cisco CCNA ITN and PCAP course certificates · Claude Code in Action.
 
-## 🛠️ Technology Domains
+## 🛠️ What I build
 
-### ☁️ Microsoft Azure
-`Azure Architecture` `AKS` `Azure Functions` `Cosmos DB` `Service Bus` `API Management`
-`Azure OpenAI` `Azure AI Services` `Azure DevOps` `Azure Monitor` `Key Vault`
+| Project | What it is |
+|---|---|
+| **[RR Skillverse](https://rrskillverse.in)** | My free learning platform for Microsoft technologies, with **Axiom**, a topic-aware AI assistant |
+| **RRCareerOS** | Evidence-based career platform: explainable job matching, claim-checked resumes, learning plans, grounded chat (Azure; demo on request) |
+| **[CAMEL Sentinel](https://github.com/raushan1107/ai-ml-cybersecurity-bank-risk-capstone)** | Explainable bank-risk AI: SHAP/LIME, graph-neural-network fraud detection, LLM chat, AI security lab, one Docker image |
+| **JARVIS** | Real-time voice AI agent (wake word, streaming audio, async orchestration) |
+| **Ask SOT · Kite Konnect · RRPulse · SMI Agent · MS Notes Generator** | AI agents built for enterprise training teams (RAG, routing, Teams digests, social analytics) |
+| **[Compact Mode](https://github.com/raushan1107/compact-mode-copilot)** | Open-source instruction packs for [GitHub Copilot](https://github.com/raushan1107/compact-mode-copilot) and [Claude](https://github.com/raushan1107/compact-mode-claude-skill), designed to cut token use 60–75% |
+| **RR Finman** | Personal finance AI: loan and early-payoff forecasting, budgets, emergency-fund "Shock Absorber", daily best-credit-card advice |
+| **[Copilot Studio Python client](https://github.com/raushan1107/PythonCopilotStudioAgentApp)** | Text and voice client for Copilot Studio agents over Direct Line |
+| **[Khan Chacha MRMS](https://github.com/raushan1107/khanchacha-mrms-app-development)** | Five-day programme: non-programmers built a Flutter + Node.js + PostgreSQL app with Claude Code |
 
-### ⚡ Power Platform
-`Power BI` `DAX` `Power Query` `M Language` `Power Apps` `Power Automate`
-`Copilot Studio` `Dataverse` `Microsoft Fabric` `Direct Lake` `Power Pages`
+## 📚 Free handbooks
 
-### 🔷 .NET & C\#
-`.NET 8` `ASP.NET Core` `Blazor` `Entity Framework Core` `Web APIs`
+[AI & Machine Learning](https://raushan1107.github.io/AI-Machine-Learning-Handbook/) ·
+[AZ-305 Azure Architecture](https://github.com/raushan1107/learn-az305-with-rrskillverse) ·
+[GH-300 GitHub Copilot](https://raushan1107.github.io/GH300-handbook-by-raushan/) ·
+[.NET 8 & Azure AI](https://raushan1107.github.io/Intelligent-Enterprise-Development-with-.NET-8-Azure-AI/) ·
+[Advanced C++](https://raushan1107.github.io/Advanced-cpp-handbook/) ·
+[RR Graphics Lab: OpenGL & Vulkan](https://github.com/raushan1107/RRGraphicsLab-) ·
+[Power BI for Engineers](https://raushan1107.github.io/pbi-for-engineers-handbook/) ·
+[Learn DAX](https://raushan1107.github.io/Learn-DAX/) ·
+[TrainerPath ESI](https://raushan1107.github.io/TrainerPath-ESI/) ·
+[QuestPDF, ClosedXML & Blazor](https://raushan1107.github.io/Hands-on-guide-HTML-for-QuestPDF-ClosedXML-Blazor-report-demo/) ·
+[AZ-204 Monitoring](https://raushan1107.github.io/AZ-204-MonitoringServicesSimplified/) ·
+[.NET Foundations](https://raushan1107.github.io/DotnetFoundations/) ·
+[Python Notes](https://raushan1107.github.io/pythonprogrammingnotes/) ·
+more on **[rrskillverse.in/handbooks](https://rrskillverse.in/handbooks.html)**
 
-### 🤖 AI Engineering
-`Azure OpenAI GPT-4o` `RAG Patterns` `Prompt Engineering` `GitHub Copilot`
-`Copilot Studio Multi-Agent`
+## 🧰 Stack
 
----
+`Azure OpenAI` `AI agents` `RAG` `Semantic Kernel` `Copilot Studio` `GitHub Copilot` `Claude Code`
+`Azure` `Container Apps` `App Service` `API Management` `Service Bus` `Entra ID`
+`Power BI` `DAX` `Microsoft Fabric` `Power Apps` `Power Automate` `Dataverse`
+`C#` `.NET` `ASP.NET Core` `Blazor` `Next.js` `Node.js` `FastAPI` `Python` `PostgreSQL`
+`C++` `Qt/QML` `OpenGL` `Vulkan` `Docker` `GitHub Actions`
 
 ## 🌐 Connect
 
-<p>
-  <a href="https://www.linkedin.com/in/raushanranjan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-raushanranjan-0077B5?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="mailto:raushanr1107@gmail.com">
-    <img src="https://img.shields.io/badge/Email-raushanr1107%40gmail.com-EA4335?style=flat-square&logo=gmail" />
-  </a>
-</p>
+[Profile](https://raushan-ranjan.azurewebsites.net) · [RR Skillverse](https://rrskillverse.in) · [LinkedIn](https://www.linkedin.com/in/raushanranjan) ·
+[YouTube](https://www.youtube.com/@rrskillverse) · [Instagram](https://www.instagram.com/rrskillverse) · [X](https://x.com/raushanranjan_) ·
+[Email](mailto:raushanr1107@gmail.com)
